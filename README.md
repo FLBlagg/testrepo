@@ -1,4 +1,6 @@
 # testrepo
 Quick Test
-Look. \n
+
+Look.
+
 It's like notepad++
