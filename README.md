@@ -1,4 +1,4 @@
 # testrepo
 Quick Test
-Look. /n
+Look. \n
 It's like notepad++
